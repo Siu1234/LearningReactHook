@@ -1,8 +1,0 @@
-# Use React.createContext() to create Context
-# Context.Provider to provide the props to all the children component
-# Pass in props like value={darkTheme}
-# Context.Consumer to receive the props from Context.Provider
-# Only Class Component can use Context.Consumer, Function Component cannot
-# Function Component uses useContext hook to get the props
-
-# Custom hook
